@@ -2,7 +2,7 @@ Enter file contents hereFROM php:5.6-apache
 
  
  MAINTAINER Thomas Nabord <thomas.nabord@prestashop.com> 
-
+FROM openshift.php
  
  ENV PS_VERSION {PS_VERSION} 
 
